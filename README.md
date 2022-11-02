@@ -83,6 +83,16 @@ Swagger documentation of Springboot based Auth Service rest API backed by JWT us
 | <a name="requirement_maven"></a> [maven](#requirement\_maven) | 3.5.3 |
 | <a name="requirement_mysql"></a> [mysql](#requirement\_maven) | MySQL Server 5.5 |
 
+## Usages
+
+To run this example you need to execute:
+
+```bash
+$ mvn clean install
+$ java -jar target/auth-service-1.0.0.jar
+$ terraform apply
+```
+
 ## Authors
 
 Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/auth-service-with-springboot-jwt-swagger/graphs/contributors).
