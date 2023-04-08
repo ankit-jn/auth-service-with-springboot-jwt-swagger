@@ -95,4 +95,4 @@ $ terraform apply
 
 ### Authors
 
-Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/auth-service-with-springboot-jwt-swagger/graphs/contributors).
+Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/ankit-jn/auth-service-with-springboot-jwt-swagger/graphs/contributors).
